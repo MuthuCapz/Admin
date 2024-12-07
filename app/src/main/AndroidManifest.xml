@@ -20,6 +20,9 @@
             android:name=".ui.activities.MainAddNewShopActivity"
             android:exported="false" />
         <activity
+            android:name=".ui.activities.Migrate_Data"
+            android:exported="true" />
+        <activity
             android:name=".ui.activities.ShopDetailsGeneral"
             android:exported="false" />
         <activity
