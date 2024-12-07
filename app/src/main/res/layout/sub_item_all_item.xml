@@ -41,7 +41,7 @@
                     android:id="@+id/itemImageView"
                     android:layout_width="70dp"
                     android:layout_height="70dp"
-                    android:contentDescription="@string/image_description"
+                    android:contentDescription="image_description"
                     android:scaleType="centerCrop"
                     tools:srcCompat="@tools:sample/avatars" />
             </androidx.cardview.widget.CardView>
